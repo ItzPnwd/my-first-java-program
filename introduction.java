@@ -14,6 +14,7 @@ public class  introduction
         System.out.println("I was born in Scranton, Pennsylvania");
         System.out.println("I go to J.L. Mann Highschool");
         System.out.println("I am 15 years old");
+        System.out.println("I am learning several scripting languages at the moment");
         System.out.println("I was born in 2001");
         System.out.println("I like to drive and run");
         
